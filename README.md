@@ -82,4 +82,4 @@ El uso del control de versiones facilita mantener la documentación actualizada 
 ---
 
 ## 👤 Autor
-Trabajo realizado para el Examen Práctico de Ingeniería de Software.
+ANDRES VINCES.
