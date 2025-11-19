@@ -96,3 +96,4 @@ de usar Markdown con GitHub.
 - [ ] Agregar documentación
 - [ ] Subir cambios finales
 ```
+Se agregó más información sobre el uso de listas en Markdown.
