@@ -82,4 +82,4 @@ El uso del control de versiones facilita mantener la documentación actualizada 
 ---
 
 ## 👤 Autor
-ANDRES VINCES.
+ANDRES VINCES MORA
